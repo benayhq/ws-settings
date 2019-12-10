@@ -4,7 +4,7 @@
     <property name="created">2019-04-05T15:50:34</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-05T15:50:34</property>
+    <property name="modified">2019-12-10T12:00:25</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
@@ -20,6 +20,9 @@
       <value>
         <option name="FOREGROUND" value="80" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
   </attributes>
 </scheme>
