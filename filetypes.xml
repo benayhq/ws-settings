@@ -15,6 +15,7 @@
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="php" type="Vue.js" />
       <mapping ext="ux" type="Vue.js" />
       <mapping ext="wpy" type="Vue.js" />
     </extensionMap>
