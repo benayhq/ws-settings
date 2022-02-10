@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="], // Set tracesSampleRate to 1.0 to capture 100% // of transactions for performance monitoring. // We recommend adjusting this value in production" />
       <item value="void" />
       <item value="** * Call velocity on one or more elements. * * @param elements An `Element`, or an array-like list of `Elements` to * process. * @param propertyMap The `key: value` property map to animate to, or a * named sequence to use. * @param options The options to apply to the animation. This overrides the * default and any supplied in a sequence. */" />
       <item value="property Map" />
