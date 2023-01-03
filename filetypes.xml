@@ -10,6 +10,7 @@
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod.local" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_1" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
